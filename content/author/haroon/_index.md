@@ -9,14 +9,14 @@ authors = ["haroon"]
 superuser = true
 
 # Role/position
-role = "NHS Pre-registration Clinical Scientist (Scientific Computing)"
+role = "NHS Senior Clinical Scientist (Scientific Computing)"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "UCLH NHS Foundation Trust", url = "http://www.uclh.nhs.uk" }]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Pre-registration clinical scientist specialising in computing & informatics at UCLH."
+bio = "Senior clinical scientist specialising in computing & informatics at UCLH."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "haroonrchughtai@gmail.com"
@@ -61,7 +61,7 @@ user_groups = []
 [[social]]
   icon = "linkedin"
   icon_pack = "fab"
-  link = "https://linkedin.com/in/hchughtai"
+  link = "https://linkedin.com/in/haroonrchughtai"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
