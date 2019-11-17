@@ -72,7 +72,7 @@ user_groups = []
 
 +++
 
-I'm Pre-registration Clinical Scientist in Scientific Computing, having recently completed the NHS Scientist Training Programme in Clinical Bioinformatics (Physical Sciences). 
+I'm a Senior Clinical Scientist in Scientific Computing, having recently completed the NHS Scientist Training Programme in Clinical Bioinformatics (Physical Sciences). 
 
 My interests and experiences are at the interface between healthcare, technology and data - particularly where they meet to improve the NHS and the experience of those who use and work in it.
 
