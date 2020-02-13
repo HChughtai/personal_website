@@ -9,14 +9,14 @@ authors = ["haroon"]
 superuser = true
 
 # Role/position
-role = "NHS Senior Clinical Scientist (Scientific Computing)"
+role = "Research Software Developer"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "UCLH NHS Foundation Trust", url = "http://www.uclh.nhs.uk" }]
+organizations = [ { name = "University College London", url = "https://www.ucl.ac.uk" }]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Senior clinical scientist specialising in computing & informatics at UCLH."
+bio = "Research Software Developer at UCL."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "haroonrchughtai@gmail.com"
@@ -72,9 +72,9 @@ user_groups = []
 
 +++
 
-I'm a Senior Clinical Scientist in Scientific Computing, having recently completed the NHS Scientist Training Programme in Clinical Bioinformatics (Physical Sciences). 
+I'm currently working as a Research Software Developer at UCL. Previously I was a Clinical Scientist in Scientific Computing at UCLH having completed the NHS Scientist Training Programme in Clinical Bioinformatics (Physical Sciences). 
 
-My interests and experiences are at the interface between healthcare, technology and data - particularly where they meet to improve the NHS and the experience of those who use and work in it.
+My interests and experiences are at the interface between healthcare, technology and data - particularly where translational research works to improve the NHS and the experience of those who use and work in it.
 
 Previously, I’ve worked on projects within synthetic biology, multi-modal sensor data fusion and computer vision-based navigation. More recently, my work has been around clinical information systems and medical natural language processing, as well as system management and software engineering process design.
 
