@@ -34,7 +34,7 @@ user_groups = []
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "MSc Clinical Bioinformatics"
+  course = "MSc Clinical Science (Informatics)"
   institution = "University of Liverpool"
   year = 2019
 
