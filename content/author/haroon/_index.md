@@ -24,7 +24,7 @@ email = "haroonrchughtai@gmail.com"
 # List (academic) interests or hobbies
 interests = [
     "Healthcare Informatics",
-    "Data Science",
+    "Medical Imaging",
     "Medical Software"
 ]
 
