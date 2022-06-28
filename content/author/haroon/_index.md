@@ -9,14 +9,14 @@ authors = ["haroon"]
 superuser = true
 
 # Role/position
-role = "Research Software Developer"
+role = "Senior Research Software Developer"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "University College London", url = "https://www.ucl.ac.uk" }]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Research Software Developer at UCL."
+bio = "Senior Research Software Developer at UCL."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "haroonrchughtai@gmail.com"
@@ -72,7 +72,7 @@ user_groups = []
 
 +++
 
-I'm currently working as a Research Software Developer at UCL. Previously I was a Clinical Scientist in Scientific Computing at UCLH having completed the NHS Scientist Training Programme in Clinical Bioinformatics (Physical Sciences). 
+I'm currently working as a Senior Research Software Developer at UCL. Previously I was a Clinical Scientist in Scientific Computing at UCLH having completed the NHS Scientist Training Programme in Clinical Bioinformatics (Physical Sciences). 
 
 My interests and experiences are at the interface between healthcare, technology and data - particularly where translational research works to improve the NHS and the experience of those who use and work in it.
 
