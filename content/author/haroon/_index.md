@@ -9,15 +9,14 @@ authors = ["haroon"]
 superuser = true
 
 # Role/position
-role = "NHS Trainee Clinical Scientist (Informatics)"
+role = "Senior Research Software Developer"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "UCLH NHS Foundation Trust", url = "http://www.uclh.nhs.uk" },
-                    { name = "LondonHCSTN", url = "http://www.londonhcstn.co.uk"}]
+organizations = [ { name = "University College London", url = "https://www.ucl.ac.uk" }]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Third year trainee clinical scientist speacliasing in computing & informatics at UCLH."
+bio = "Senior Research Software Developer at UCL."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "haroonrchughtai@gmail.com"
@@ -25,7 +24,7 @@ email = "haroonrchughtai@gmail.com"
 # List (academic) interests or hobbies
 interests = [
     "Healthcare Informatics",
-    "Data Science",
+    "Medical Imaging",
     "Medical Software"
 ]
 
@@ -35,7 +34,7 @@ user_groups = []
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "MSc Clinical Bioinformatics"
+  course = "MSc Clinical Science (Informatics)"
   institution = "University of Liverpool"
   year = 2019
 
@@ -62,7 +61,7 @@ user_groups = []
 [[social]]
   icon = "linkedin"
   icon_pack = "fab"
-  link = "https://linkedin.com/in/hchughtai"
+  link = "https://linkedin.com/in/haroonrchughtai"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -73,7 +72,9 @@ user_groups = []
 
 +++
 
-I'm a third year NHS Trainee Clinical Scientist in Computing/Informatics, and recentish  Biomedical Engineering graduate. My interests and experiences are at the interface between healthcare, engineering and data science. I'm particularly interested in exploring the application of my skills to problems in healthcare, medicine and the NHS.
+I'm currently working as a Senior Research Software Developer at UCL. Previously I was a Clinical Scientist in Scientific Computing at UCLH having completed the NHS Scientist Training Programme in Clinical Bioinformatics (Physical Sciences). 
 
-Previously, I've worked on projects within synthetic biology, multi-modal sensor data fusion and computer vision based navigation. More recently, my work as part of my training scheme has been around clinical information systems, as well as medical natural language processing. Coming from an interdisciplinary background I find the technical complexity of such systems, coupled with their practical need in improving people's lives a rewarding area to work within.
+My interests and experiences are at the interface between healthcare, technology and data - particularly where translational research works to improve the NHS and the experience of those who use and work in it.
+
+Previously, I’ve worked on projects within synthetic biology, multi-modal sensor data fusion and computer vision-based navigation. More recently, my work has been around clinical information systems and medical natural language processing, as well as system management and software engineering process design.
 
